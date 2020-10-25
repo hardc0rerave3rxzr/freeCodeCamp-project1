@@ -1,0 +1,1 @@
+First project for freeCodeCamp.No media queries and looks bad on phone but still learning :).
